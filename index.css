@@ -1,0 +1,22 @@
+.navbar ul li a{
+    font-size: 18px;
+    color: black;
+}
+.navbar ul li a:hover{
+    color: rgb(1, 140, 57);
+}
+
+.banner-img{
+    background-image: url(image/hero-bg.jpg);
+    background-size: cover;
+}
+.banner-overlay{
+    height: 93vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.banner{
+    background-color: black;
+}
